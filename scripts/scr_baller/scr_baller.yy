@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_baller",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_baller",
+  "parent":{
+    "name":"ENEMIES",
+    "path":"folders/Gameplay/ENEMIES.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

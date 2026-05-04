@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_spaceTheme",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":273.00677,
+  "exportDir":"",
+  "name":"snd_spaceTheme",
+  "parent":{
+    "name":"MUSIC",
+    "path":"folders/Sounds/MUSIC.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_spaceTheme.mp3",
+  "volume":1.0,
+}

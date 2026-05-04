@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_sun, -1, x*2,y*2, 64, 64,0,c_white,1)

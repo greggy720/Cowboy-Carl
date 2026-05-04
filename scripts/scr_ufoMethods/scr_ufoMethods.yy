@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_ufoMethods",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_ufoMethods",
+  "parent":{
+    "name":"UFO",
+    "path":"folders/Gameplay/UFO.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

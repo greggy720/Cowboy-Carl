@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_playerHit",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.36786848,
+  "exportDir":"",
+  "name":"snd_playerHit",
+  "parent":{
+    "name":"AR_COWBOY_CARL",
+    "path":"AR_COWBOY_CARL.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_playerHit.wav",
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_spawnMessage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_spawnMessage",
+  "parent":{
+    "name":"message",
+    "path":"folders/UI/message.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

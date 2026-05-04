@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_playerMethods",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_playerMethods",
+  "parent":{
+    "name":"PLAYER",
+    "path":"folders/Gameplay/PLAYER.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

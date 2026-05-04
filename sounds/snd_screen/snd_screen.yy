@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_screen",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.70390624,
+  "exportDir":"",
+  "name":"snd_screen",
+  "parent":{
+    "name":"UI SOUND",
+    "path":"folders/Sounds/UI SOUND.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":32000,
+  "soundFile":"snd_screen.wav",
+  "volume":1.0,
+}

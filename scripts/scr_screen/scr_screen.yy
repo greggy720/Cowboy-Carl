@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_screen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_screen",
+  "parent":{
+    "name":"SCREENS",
+    "path":"folders/UI/SCREENS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

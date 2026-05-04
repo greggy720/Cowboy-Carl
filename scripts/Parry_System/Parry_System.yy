@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Parry_System",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Parry_System",
+  "parent":{
+    "name":"ENEMIES",
+    "path":"folders/Gameplay/ENEMIES.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

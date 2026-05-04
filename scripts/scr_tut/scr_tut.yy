@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_tut",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_tut",
+  "parent":{
+    "name":"Tutorials",
+    "path":"folders/Management/Tutorials.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

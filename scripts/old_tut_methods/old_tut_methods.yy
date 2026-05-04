@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"old_tut_methods",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"old_tut_methods",
+  "parent":{
+    "name":"Tutorials",
+    "path":"folders/Management/Tutorials.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

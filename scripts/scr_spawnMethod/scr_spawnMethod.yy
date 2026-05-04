@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_spawnMethod",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_spawnMethod",
+  "parent":{
+    "name":"Management",
+    "path":"folders/Management.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_lassoSwing",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.36267573,
+  "exportDir":"",
+  "name":"snd_lassoSwing",
+  "parent":{
+    "name":"lasso",
+    "path":"folders/Sounds/SFX/lasso.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_lassoSwing.wav",
+  "volume":1.0,
+}

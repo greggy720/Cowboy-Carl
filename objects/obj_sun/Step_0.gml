@@ -1,0 +1,1 @@
+if(x>950){instance_create_layer(0,0,"Instances_1", obj_sun) instance_destroy(self)}

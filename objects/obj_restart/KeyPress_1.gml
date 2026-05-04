@@ -1,0 +1,1 @@
+if(alarm[0]==-1){game_restart()}

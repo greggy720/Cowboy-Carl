@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_tutMessage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_tutMessage",
+  "parent":{
+    "name":"message",
+    "path":"folders/UI/message.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

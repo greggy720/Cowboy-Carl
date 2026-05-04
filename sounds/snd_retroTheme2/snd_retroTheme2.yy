@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_retroTheme2",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":78.64599,
+  "exportDir":"",
+  "name":"snd_retroTheme2",
+  "parent":{
+    "name":"MUSIC",
+    "path":"folders/Sounds/MUSIC.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_retroTheme2.mp3",
+  "volume":1.0,
+}

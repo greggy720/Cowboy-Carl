@@ -1,0 +1,1 @@
+alarm_set(6,global.second*3)
