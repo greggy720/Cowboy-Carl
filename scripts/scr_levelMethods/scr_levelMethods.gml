@@ -29,12 +29,15 @@ function roomPositions(){
 
 function startLevelCreate(){
 if (room == Room0){
+		draw_texture_flush()
+		sprite_prefetch(spr_logo)
 		audio_stop_all()
-		if(global.audioOn==true){audio_play_sound(snd_menu,1,0,9)}
+		if(global.audioOn==true){alarm_set(6,6)}
 		instance_create_layer(0,0,"Instances", obj_logo)
 	}
 	
 else if (room == Room1){
+
 		audio_stop_all()
 		if(global.audioOn==true){audio_play_sound(snd_westTheme,1,1,9)}
 		instance_create_layer(inst_3.x, inst_3.y, "Instances", obj_player);
@@ -44,12 +47,14 @@ else if (room == Room1){
 	}
 else if (room ==Room2){
 
+
 		instance_create_layer(inst_3.x, inst_3.y, "Instances", obj_player);
 		instance_create_layer(160,90, "Instances", obj_tut)
 		
 	}
 	
 else if (room == Room3){
+	
 		audio_stop_all()
 		if(global.audioOn==true) {audio_play_sound(snd_retroTheme,1,0,3.5)}
 		if(global.audioOn==true) {audio_play_sound(snd_retroTheme2,2,1,0.001)}

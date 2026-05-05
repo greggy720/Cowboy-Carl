@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"AR_COWBOY_CARL",
-    "path":"AR_COWBOY_CARL.yyp",
+    "name":"Cowboy Carl",
+    "path":"Cowboy Carl.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -81,8 +81,8 @@
   "swatchColours":null,
   "swfPrecision":0.5,
   "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+    "name":"Menu",
+    "path":"texturegroups/Menu",
   },
   "type":0,
   "VTile":false,

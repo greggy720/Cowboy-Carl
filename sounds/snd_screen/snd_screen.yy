@@ -5,12 +5,12 @@
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
-  "bitDepth":0,
+  "bitDepth":1,
   "channelFormat":0,
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.70390624,
+  "duration":0.7039002,
   "exportDir":"",
   "name":"snd_screen",
   "parent":{
@@ -20,7 +20,7 @@
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
-  "sampleRate":32000,
+  "sampleRate":44100,
   "soundFile":"snd_screen.wav",
   "volume":1.0,
 }

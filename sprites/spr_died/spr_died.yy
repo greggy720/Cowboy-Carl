@@ -20,7 +20,6 @@
   "height":720,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"40db7456-9660-4a93-9e48-e2a4aa6edf50","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"40db7456-9660-4a93-9e48-e2a4aa6edf50","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"b6603905-a866-4d43-b32f-a3be0e2b9771","blendMode":0,"displayName":"default","isLocked":false,"name":"b6603905-a866-4d43-b32f-a3be0e2b9771","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_died",
