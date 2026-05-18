@@ -33,11 +33,11 @@ function doubleJump(){
 function scr_playerShoot(dir){
 	if (canShoot == true){
 	if (bullets < totalBullets){ bullets ++}
-	
 	var _card = instance_create_layer(cardSpawnX(),cardSpawnY(), "Instances", obj_card)
 	
 	if(dir == "up" ){_card.direction = point_direction(inst_3.x,inst_3.y-16,inst_2.x, inst_2.y) }
 	else { _card.direction = point_direction(inst_3.x, inst_3.y-16,inst_4.x, inst_4.y) }
+	if (alarm[9] == -1){alarm_set(9,12)}
 	}
 }
 

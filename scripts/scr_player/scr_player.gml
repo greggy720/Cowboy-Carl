@@ -70,8 +70,8 @@ function scr_playerStep(){
 
 	if (keyboard_check_pressed(vk_space)){ scr_playerJump() }			
 	if(keyboard_check(vk_space) && jumpEnd == false ){ jumpLong = true;} else {jumpLong = false}
-	if(keyboard_check_pressed(vk_up)){scr_playerShoot("up")}
-	if(keyboard_check_pressed(vk_right)){scr_playerShoot("right")}
+	if(keyboard_check(vk_up) && alarm[9]==-1){scr_playerShoot("up")}
+	if(keyboard_check(vk_right)&& alarm[9]==-1){scr_playerShoot("right")}
 	
 	if (keyboard_check_pressed(vk_space)&&isJump == true && canJump ==false && canDoubleJump == true){doubleJump();}
 
@@ -85,6 +85,10 @@ function playerAlarm3(){
 function playerAlarm8(){
 	hurt = false;
 	invincible = false;
+}
+
+function playerAlarm9(){
+	
 }
 
 function touchArrow(){

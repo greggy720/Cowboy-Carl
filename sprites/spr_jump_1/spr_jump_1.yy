@@ -113,8 +113,8 @@
   "swatchColours":null,
   "swfPrecision":0.5,
   "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+    "name":"Level1",
+    "path":"texturegroups/Level1",
   },
   "type":0,
   "VTile":false,

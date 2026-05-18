@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"AR_COWBOY_CARL",
-    "path":"AR_COWBOY_CARL.yyp",
+    "name":"Cowboy Carl",
+    "path":"Cowboy Carl.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -93,8 +93,8 @@
   "swatchColours":null,
   "swfPrecision":0.5,
   "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
+    "name":"Level3",
+    "path":"texturegroups/Level3",
   },
   "type":0,
   "VTile":false,

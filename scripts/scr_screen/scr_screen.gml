@@ -11,7 +11,10 @@ function spawnScreen(screen){
 	}
 }
 
-function screenCreate(){ 	
+function screenCreate(){ 
+	if (room == Room1){	draw_texture_flush() sprite_prefetch(spr_walk_1)}
+	if (room == Room2){	draw_texture_flush() sprite_prefetch(spr_walk_2)}
+	if (room == Room3){	draw_texture_flush() sprite_prefetch(spr_walk_3)}
 	if (room!=Room1){audio_stop_all()}
 	if(global.audioOn==true && global.setScreen == spr_screenRoom2) {audio_play_sound(snd_spaceTheme,1,0,5)}
 	if (global.setScreen == spr_screenRoom3 )
